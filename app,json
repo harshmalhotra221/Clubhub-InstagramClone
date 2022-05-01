@@ -1,0 +1,33 @@
+{
+    "expo": {
+        "name": "Clubhub",
+        "slug": "clubhubapp",
+        "version": "5.0.3",
+        "orientation": "portrait",
+        "icon": "https://i.ibb.co/Y218F3f/1647672507885.jpg",
+        "splash": {
+            "image": "https://i.ibb.co/Y218F3f/1647672507885.jpg",
+            "resizeMode": "contain",
+            "backgroundColor": "#332424"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"        
+        ],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "package": "harrynativepointcode.clubhub",
+            "adaptiveIcon": {
+                "foregroundImage": "https://i.ibb.co/Y218F3f/1647672507885.jpg",
+                "backgroundColor": "#332424"
+            }
+        },
+        "web": {
+            "favicon": "https://i.ibb.co/Y218F3f/1647672507885.jpg"
+        }
+    }
+}
